@@ -21,7 +21,7 @@ function figmaAssetPlugin() {
 }
 
 export default defineConfig({
-  base: '/readycloud-website/',
+  base: '/readycloud-redesign/',
   plugins: [
     figmaAssetPlugin(),
     // The React and Tailwind plugins are both required for Make, even if
