@@ -21,4 +21,4 @@ export const router = createBrowserRouter([
     path: "/static-overview",
     Component: StaticOverview,
   },
-]);
+], { basename: import.meta.env.BASE_URL });
