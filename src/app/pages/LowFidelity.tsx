@@ -18,16 +18,16 @@ import { ReadyReturnsLogo } from '../components/ReadyReturnsLogo';
 
 /* ─────────────────────────── Featured brand logos ──────────────────── */
 const COMPANY_LOGOS = [
-  { src: '/featured-brands/ah-logo-color.png',                     name: 'American Hanger'        },
-  { src: '/featured-brands/cs-logo-color.png',                     name: 'CS'                     },
-  { src: '/featured-brands/dianese.webp',                          name: 'Dainese'                },
-  { src: '/featured-brands/foot-locker.png',                       name: 'Foot Locker',    tall: true },
-  { src: '/featured-brands/of-logo-768x178.png',                   name: 'Original Footwear'      },
-  { src: '/featured-brands/revolve-1.webp',                        name: 'Revolve'                },
-  { src: '/featured-brands/Blue-Cross-Blue-Shield-Logo-thumb.png', name: 'Blue Cross',     tall: true },
-  { src: '/featured-brands/ca.gov-portal-logo-bear.png',           name: 'CA.gov'                 },
-  { src: '/featured-brands/Crocs_wordmark.svg.png',                name: 'Crocs'                  },
-  { src: '/featured-brands/redbull-logo.svg',                      name: 'Red Bull',       tall: true },
+  { src: '/featured-brands/ah-logo-color.svg',                     name: 'American Hanger'        },
+  { src: '/featured-brands/cs-logo-color.svg',                     name: 'CS'                     },
+  { src: '/featured-brands/dianese.svg',                           name: 'Dainese'                },
+  { src: '/featured-brands/foot-locker.svg',                       name: 'Foot Locker',    tall: true },
+  { src: '/featured-brands/of-logo-768x178.svg',                   name: 'Original Footwear'      },
+  { src: '/featured-brands/revolve-1.svg',                         name: 'Revolve'                },
+  { src: '/featured-brands/Blue-Cross-Blue-Shield-Logo-thumb.svg', name: 'Blue Cross',     tall: true },
+  { src: '/featured-brands/ca.gov-portal-logo-bear.svg',           name: 'CA.gov'                 },
+  { src: '/featured-brands/Crocs_wordmark.svg.svg',                name: 'Crocs'                  },
+  { src: '/featured-brands/redbull-logo.jpg',                      name: 'Red Bull',       tall: true },
 ];
 
 /* ─────────────────────────── Nav product/solution data ──────────────── */
